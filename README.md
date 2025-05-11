@@ -1,12 +1,12 @@
 # 👋 Olá, eu sou o Gabriel!
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas no IFPI Campus Floriano - Pi
-💻 Entusiasta de Front-End e apaixonado por tecnologia
-🌍 Atualmente aprendendo: HTML, CSS e JavaScript 
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas no IFPI Campus Floriano - Pi
+- 💻 Entusiasta de Front-End e apaixonado por tecnologia
+- 🌍 Atualmente aprendendo: HTML, CSS e JavaScript 
 
 ## 💼 Meus Projetos
 
-- [Blog Pessoal](https://github.com/gbrielfranca/blog-pessoal) – Meu projeto de blog feito com HTML e CSS!
+- [Blog Pessoal](https://github.com/gbrielfranca/blog-pessoal.git) – Meu projeto de blog feito com HTML e CSS!
 
 ## 🚀 Tecnologias e ferramentas que uso:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)

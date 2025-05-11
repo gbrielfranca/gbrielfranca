@@ -1,6 +1,7 @@
 # 👋 Olá, eu sou o Gabriel!
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas | 💻 Entusiasta de Front-End  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas no IFPI Campus Floriano - Pi
+💻 Entusiasta de Front-End e apaixonado por tecnologia
 🌍 Atualmente aprendendo: HTML, CSS e JavaScript  
 
 # 🚀 Tecnologias e ferramentas que uso:
